@@ -1,9 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T19:06:49.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.4" etag="lBR-m2EMYeGp6XAOy2va" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T19:16:56.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="WFAD1YQnalqAMT74vy0m" version="21.3.4" type="github">
   <diagram name="Page-1" id="IXttwuJgZ2PLg_hQd1Rr">
-    <mxGraphModel>
+    <mxGraphModel dx="683" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ham1cR8tCC1GO7AtGyFR-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ham1cR8tCC1GO7AtGyFR-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-1" value="We will take 3 ints as input :&lt;br&gt;a,b,c&lt;br&gt;then see the data type of result&lt;br&gt;a*b/c" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="130" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-3" value="if the result has a fraction&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;then it is double" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="263" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ham1cR8tCC1GO7AtGyFR-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-5" value="if it is in the range of&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;font-size: 17.36px; background-color: initial; border: 0px; transition: none 0s ease 0s; display: inline; position: static; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; font-family: MathJax_Main;&quot; id=&quot;MathJax-Span-48&quot; class=&quot;mo&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;font-size: 17.36px; background-color: initial; border: 0px; transition: none 0s ease 0s; display: inline; position: static; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; font-family: MathJax_Main;&quot; id=&quot;MathJax-Span-49&quot; class=&quot;mo&quot;&gt;−&lt;/span&gt;&lt;span style=&quot;font-size: 17.36px; background-color: initial; border: 0px; transition: none 0s ease 0s; display: inline; position: static; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; font-family: MathJax_Main;&quot; id=&quot;MathJax-Span-50&quot; class=&quot;mn&quot;&gt;2147483648&lt;/span&gt;&lt;span style=&quot;font-size: 17.36px; background-color: initial; border: 0px; transition: none 0s ease 0s; display: inline; position: static; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; font-family: MathJax_Main;&quot; id=&quot;MathJax-Span-51&quot; class=&quot;mo&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;font-size: 17.36px; background-color: initial; border: 0px; transition: none 0s ease 0s; display: inline; position: static; padding: 0px 0px 0px 0.176em; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; font-family: MathJax_Main;&quot; id=&quot;MathJax-Span-52&quot; class=&quot;mn&quot;&gt;2147483647&lt;/span&gt;&lt;span style=&quot;font-size: 17.36px; background-color: initial; border: 0px; transition: none 0s ease 0s; display: inline; position: static; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; font-family: MathJax_Main;&quot; id=&quot;MathJax-Span-53&quot; class=&quot;mo&quot;&gt;]&lt;br&gt;&lt;/span&gt;then it is INT&lt;br&gt;&lt;nobr style=&quot;border: 0px; transition: none 0s ease 0s; padding: 0px; margin: 0px; max-width: none; max-height: none; min-width: 0px; min-height: 0px; vertical-align: 0px; line-height: normal;&quot; aria-hidden=&quot;true&quot;&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; display: inline-block; position: relative; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; width: 11.639em; height: 0px; font-size: 17.36px;&quot;&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; position: absolute; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; clip: rect(1.27em, 1011.52em, 2.595em, -999.997em); top: -2.186em; left: 0em;&quot;&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; display: inline-block; position: static; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; width: 0px; height: 2.192em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; position: absolute; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; clip: rect(1.27em, 1011.52em, 2.595em, -999.997em); top: -2.186em; left: 0em;&quot;&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; display: inline; position: static; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box;&quot; class=&quot;mrow&quot;&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; display: inline; position: static; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; font-family: MathJax_Main;&quot; class=&quot;mo&quot;&gt;p[&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; position: absolute; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; clip: rect(1.27em, 1011.52em, 2.595em, -999.997em); top: -2.186em; left: 0em;&quot;&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; display: inline; position: static; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box;&quot; class=&quot;mrow&quot;&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; display: inline; position: static; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; font-family: MathJax_Main;&quot; class=&quot;mo&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; position: absolute; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; clip: rect(1.27em, 1011.52em, 2.595em, -999.997em); top: -2.186em; left: 0em;&quot;&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; display: inline; position: static; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box;&quot; class=&quot;mrow&quot;&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; display: inline; position: static; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; font-family: MathJax_Main;&quot; class=&quot;mo&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; position: absolute; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; clip: rect(1.27em, 1011.52em, 2.595em, -999.997em); top: -2.186em; left: 0em;&quot;&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; display: inline; position: static; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box;&quot; class=&quot;mrow&quot;&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; display: inline; position: static; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; font-family: MathJax_Main;&quot; class=&quot;mo&quot;&gt;d&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; position: absolute; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; clip: rect(1.27em, 1011.52em, 2.595em, -999.997em); top: -2.186em; left: 0em;&quot;&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; display: inline; position: static; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box;&quot; class=&quot;mrow&quot;&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; display: inline; position: static; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; font-family: MathJax_Main;&quot; class=&quot;mo&quot;&gt;f&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; display: inline-block; position: static; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; width: 14.461em;&quot; id=&quot;MathJax-Span-46&quot; class=&quot;math&quot;&gt;&lt;/span&gt;&lt;/nobr&gt;&lt;span style=&quot;border: 0px; display: inline; line-height: normal; font-size: 14px; text-align: left; overflow-wrap: normal; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; padding: 0px; margin: 0px; font-family: &amp;quot;helvetica neue&amp;quot;, Helvetica, Arial, sans-serif; background-color: rgb(255, 255, 255); position: relative;&quot; role=&quot;presentation&quot; data-mathml=&quot;&lt;math xmlns=&amp;quot;http://www.w3.org/1998/Math/MathML&amp;quot;&gt;&lt;mo stretchy=&amp;quot;false&amp;quot;&gt;[&lt;/mo&gt;&lt;mo&gt;&amp;amp;#x2212;&lt;/mo&gt;&lt;mn&gt;2147483648&lt;/mn&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mn&gt;2147483647&lt;/mn&gt;&lt;mo stretchy=&amp;quot;false&amp;quot;&gt;]&lt;/mo&gt;&lt;/math&gt;&quot; tabindex=&quot;0&quot; id=&quot;MathJax-Element-6-Frame&quot; class=&quot;MathJax&quot;&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(34, 34, 34); font-family: &amp;quot;helvetica neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;nobr style=&quot;border: 0px; transition: none 0s ease 0s; padding: 0px; margin: 0px; max-width: none; max-height: none; min-width: 0px; min-height: 0px; vertical-align: 0px; line-height: normal;&quot; aria-hidden=&quot;true&quot;&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; display: inline-block; position: static; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; width: 14.461em;&quot; id=&quot;MathJax-Span-46&quot; class=&quot;math&quot;&gt;&lt;span style=&quot;border: 0px; transition: none 0s ease 0s; display: inline-block; position: relative; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; width: 11.639em; height: 0px; font-size: 17.36px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/nobr&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="270" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-10" value="if the range is grater then this&lt;br&gt;it will be long long" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="393" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ham1cR8tCC1GO7AtGyFR-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-11" value="Solution" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ham1cR8tCC1GO7AtGyFR-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-13" value="Input three ints" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="658" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ham1cR8tCC1GO7AtGyFR-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-16" value="double result =&lt;br&gt;a *b /c" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ham1cR8tCC1GO7AtGyFR-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ham1cR8tCC1GO7AtGyFR-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="853" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-18" value="if (double result = int result)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="838" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-21" value="false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="818" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-22" value="Cout double" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="838" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-23" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="888" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ham1cR8tCC1GO7AtGyFR-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ham1cR8tCC1GO7AtGyFR-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="963" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-24" value="if(result &amp;gt;−&lt;span style=&quot;border: 0px; background-color: initial; font-size: 17.36px; transition: none 0s ease 0s; display: inline; position: static; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; box-sizing: content-box; font-family: MathJax_Main;&quot; id=&quot;MathJax-Span-50&quot; class=&quot;mn&quot;&gt;2147483648 || (result&amp;lt;&lt;/span&gt;2147483647)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="948" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-26" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="990" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-27" value="Cout int" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1038" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-29" value="false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="928" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ham1cR8tCC1GO7AtGyFR-30" value="Cout long long" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="948" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

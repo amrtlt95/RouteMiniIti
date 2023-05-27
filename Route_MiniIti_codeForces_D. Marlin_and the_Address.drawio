@@ -1,9 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T18:28:05.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.4" etag="n94DghTgQBhGvSp1o9AC" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T19:03:15.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UL6GyZwUY9IZC1-vXrXg" version="21.3.4" type="github">
   <diagram name="Page-1" id="fgkyik2zgTk8upyQjmQH">
-    <mxGraphModel>
+    <mxGraphModel dx="819" dy="1555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-2" value="You want to input a number&lt;br&gt;and cout the sign (positive or negative)&lt;br&gt;and the numbers in words&lt;br&gt;the number is a multiple of 10&lt;br&gt;10 , 100 , 1000" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="-220" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VcPCSomO3ROi6J-XMaNU-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="-87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-3" value="Input&lt;br&gt;-100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="-107" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-5" value="Output&lt;br&gt;Negative One Hundreds" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-107" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VcPCSomO3ROi6J-XMaNU-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-7" value="Solution" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-67" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VcPCSomO3ROi6J-XMaNU-9" target="VcPCSomO3ROi6J-XMaNU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-9" value="Input an int" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="70" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VcPCSomO3ROi6J-XMaNU-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="192" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-11" value="Check positive or negative or zero" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="120" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VcPCSomO3ROi6J-XMaNU-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-13" value="cout positive or negative&lt;br&gt;cout zero and return 0 as there is no more numbers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="185" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-15" value="cout Ten" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="350" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.894;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VcPCSomO3ROi6J-XMaNU-36" target="VcPCSomO3ROi6J-XMaNU-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VcPCSomO3ROi6J-XMaNU-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-36" value="if (input /10 == 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-42" value="if true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="310" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-46" value="if false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="298" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VcPCSomO3ROi6J-XMaNU-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-47" value="if(input /100 == 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="358" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-49" value="if true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="418" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VcPCSomO3ROi6J-XMaNU-50" value="Cout One&amp;nbsp; Hundered" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="448" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

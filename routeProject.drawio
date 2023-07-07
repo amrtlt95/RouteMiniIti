@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T23:23:35.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36  " etag="lMobUsFCAOFNXpKJ5i0j" version="21.6.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-07T01:56:50.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36  " etag="Pm63ev3W04Kzvz_y6Gs4" version="21.6.1" type="github" pages="3">
   <diagram name="Phase 1 planing" id="p6a7DkaL6pbWPs2hjlhi">
     <mxGraphModel dx="4568" dy="1536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -185,7 +185,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PaJCsO1Lcfhk003qOp_c" name="Phase 2 sequence">
-    <mxGraphModel dx="1434" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,9 +194,6 @@
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-2" value="Create three txt files to store and retrieve data for Client , Employee , Admin&amp;nbsp;&lt;br&gt;W3 School" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="60" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="s2hXWo8D6TKHtjkElfEU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2hXWo8D6TKHtjkElfEU-5" target="s2hXWo8D6TKHtjkElfEU-9">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2hXWo8D6TKHtjkElfEU-5" target="s2hXWo8D6TKHtjkElfEU-14">
           <mxGeometry relative="1" as="geometry" />
@@ -213,19 +210,22 @@
         <mxCell id="s2hXWo8D6TKHtjkElfEU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="s2hXWo8D6TKHtjkElfEU-9" target="s2hXWo8D6TKHtjkElfEU-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s2hXWo8D6TKHtjkElfEU-9" value="These methods consists of" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="220" width="80" height="80" as="geometry" />
+        <mxCell id="s2hXWo8D6TKHtjkElfEU-9" value="These methods consists of" style="ellipse;whiteSpace=wrap;html=1;rounded=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="390" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-10" value="Add Client&lt;br&gt;Add Employee&lt;br&gt;Add Admin&lt;br&gt;these adds new instances to the txt files" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="20" width="125" height="110" as="geometry" />
+          <mxGeometry x="235" y="190" width="95" height="90" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-11" value="getAdmin&lt;br&gt;getEmployee&lt;br&gt;getClient&lt;br&gt;That return vector of these types" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="220" width="135" height="80" as="geometry" />
+          <mxGeometry x="62.5" y="390" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-12" value="removeAllCients&lt;br&gt;removeAllAdmins&lt;br&gt;removeAllEmployees&lt;br&gt;makes the txt file empty" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="332.5" y="390" width="145" height="90" as="geometry" />
+          <mxGeometry x="210" y="560" width="145" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="s2hXWo8D6TKHtjkElfEU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2hXWo8D6TKHtjkElfEU-14" target="s2hXWo8D6TKHtjkElfEU-16">
+        <mxCell id="r9d1GzmWV6vvsTlAeAoD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s2hXWo8D6TKHtjkElfEU-14" target="s2hXWo8D6TKHtjkElfEU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r9d1GzmWV6vvsTlAeAoD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s2hXWo8D6TKHtjkElfEU-14" target="s2hXWo8D6TKHtjkElfEU-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-14" value="Create FileManager class that inherets from the abstract class&lt;br&gt;And this class should implement all these methods" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -235,7 +235,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-16" value="Add these methods to the appropriate classes&lt;br&gt;And some new methods will be made in each class of Admin , Emp" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="532.5" y="600" width="145" height="120" as="geometry" />
+          <mxGeometry x="522.5" y="850" width="145" height="120" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2hXWo8D6TKHtjkElfEU-19" target="s2hXWo8D6TKHtjkElfEU-22">
           <mxGeometry relative="1" as="geometry" />
@@ -244,22 +244,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-19" value="Create Parser class" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2hXWo8D6TKHtjkElfEU-22" target="s2hXWo8D6TKHtjkElfEU-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s2hXWo8D6TKHtjkElfEU-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2hXWo8D6TKHtjkElfEU-22" target="s2hXWo8D6TKHtjkElfEU-24">
+        <mxCell id="r9d1GzmWV6vvsTlAeAoD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s2hXWo8D6TKHtjkElfEU-22" target="s2hXWo8D6TKHtjkElfEU-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-22" value="The main idea is" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="820" width="80" height="80" as="geometry" />
+          <mxGeometry x="350" y="960" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-23" value="Split&lt;br&gt;Take a full string line from the txt file and split each attribute in a single line&lt;br&gt;amr tallat - 50 - &quot;asda&quot;&lt;br&gt;To&amp;nbsp;&lt;br&gt;Amr Talaat&lt;br&gt;50&lt;br&gt;asda" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="327.5" y="560" width="155" height="160" as="geometry" />
+          <mxGeometry x="312.5" y="750" width="155" height="160" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-24" value="Take a string line and return an object&amp;nbsp;&lt;br&gt;amr takaat - 50&lt;br&gt;return client object thas has the name of amr talaat , etc&lt;br&gt;and this applies to emp and admin" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="805" width="170" height="110" as="geometry" />
+          <mxGeometry x="100" y="945" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2hXWo8D6TKHtjkElfEU-27" target="s2hXWo8D6TKHtjkElfEU-31">
           <mxGeometry relative="1" as="geometry" />
@@ -268,37 +268,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-27" value="Create FileHelperClass" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="1140" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2hXWo8D6TKHtjkElfEU-31" target="s2hXWo8D6TKHtjkElfEU-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s2hXWo8D6TKHtjkElfEU-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2hXWo8D6TKHtjkElfEU-31" target="s2hXWo8D6TKHtjkElfEU-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2hXWo8D6TKHtjkElfEU-31" target="s2hXWo8D6TKHtjkElfEU-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="r9d1GzmWV6vvsTlAeAoD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s2hXWo8D6TKHtjkElfEU-31" target="s2hXWo8D6TKHtjkElfEU-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-31" value="Has the following" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="1130" width="80" height="80" as="geometry" />
+          <mxGeometry x="350" y="1270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-32" value="txt file&lt;br&gt;ClientLastID&lt;br&gt;it has the id of the last created client, so the next client will have id+1&lt;br&gt;and update the last client id again" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="331.25" y="920" width="147.5" height="110" as="geometry" />
+          <mxGeometry x="322.5" y="1140" width="135" height="100" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-33" value="getClient , like the filemanager cunctions" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="1140" width="120" height="60" as="geometry" />
+          <mxGeometry x="135" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-34" value="saveClient and emp&lt;br&gt;as it saves the data into the txt files" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="1300" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2hXWo8D6TKHtjkElfEU-36" target="s2hXWo8D6TKHtjkElfEU-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-36" value="Has the following" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="765" y="1130" width="80" height="80" as="geometry" />
+          <mxGeometry x="750" y="1270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s2hXWo8D6TKHtjkElfEU-37" value="getLast function&amp;nbsp;&lt;br&gt;returns the last id in a specific file&lt;br&gt;emp,admin,client" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="905" y="1140" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -308,6 +308,39 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cah8h_4_uaMXlucK7uri-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cah8h_4_uaMXlucK7uri-1" target="cah8h_4_uaMXlucK7uri-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cah8h_4_uaMXlucK7uri-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;1&lt;br&gt;&lt;/font&gt;&lt;/b&gt;Create three text files&lt;br&gt;if the file exists , do not create it" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KKTdoxsgaJOsge3LcouK-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cah8h_4_uaMXlucK7uri-3" target="KKTdoxsgaJOsge3LcouK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cah8h_4_uaMXlucK7uri-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;3&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;ul&gt;&lt;li&gt;add new obj to the txt file with its attributes as a string line , each attribute is seperated by comma. for example Amr Talaat,50,1500. another client in the next line Ahmed Abbas,60,1600&lt;/li&gt;&lt;li&gt;read obj attributes from the txt file and return it as vector of objects&lt;/li&gt;&lt;li&gt;make the txt file empty&lt;/li&gt;&lt;/ul&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="188.75" y="350" width="442.5" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="KKTdoxsgaJOsge3LcouK-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KKTdoxsgaJOsge3LcouK-1" target="KKTdoxsgaJOsge3LcouK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KKTdoxsgaJOsge3LcouK-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;4&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Search the txt file with a given id and return that object&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;edit the client info , give the client object by reference, and edit the name ,id, salary , etc to the txt file&lt;/li&gt;&lt;/ul&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="640" width="465" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="KKTdoxsgaJOsge3LcouK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KKTdoxsgaJOsge3LcouK-3" target="KKTdoxsgaJOsge3LcouK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KKTdoxsgaJOsge3LcouK-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;5&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Same idea as step 4&lt;/li&gt;&lt;/ul&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="293.75" y="930" width="232.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uy5-lgrFi4ChTnrWBpbK-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KKTdoxsgaJOsge3LcouK-5" target="uy5-lgrFi4ChTnrWBpbK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KKTdoxsgaJOsge3LcouK-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;6&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;give a string line to a function , and split by the comma in step 3 , and then return a vector of strings, vector[0]= the first attribute before the comma . vector[1] the second attribute before the second comma.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;the second step is to provide the string line to a function , use the split , and then create a client with each value in the vector , and return that client .&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;the second step will be repeated to the emp and admin&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="168.75" y="1160" width="482.5" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="uy5-lgrFi4ChTnrWBpbK-1" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;7&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;ul style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;the id variable is made to be incremented automatically , and each new client will have an id+1 of the previous id , and that imples to the emp and admin&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;we will have a method to store the last id of emp or admin or client , to a new txt file&lt;/li&gt;&lt;li style=&quot;text-align: left; border-color: var(--border-color);&quot;&gt;and we will create method to get last id of each of them from the new txt files&lt;/li&gt;&lt;li style=&quot;text-align: left; border-color: var(--border-color);&quot;&gt;we will create method to save a client or emp and give this function the txt of the database , last id , and the object you want to save&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left; border-color: var(--border-color);&quot;&gt;the remaining functions are the same as the filemanager functions&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="149.38" y="1490" width="521.25" height="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
